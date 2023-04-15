@@ -23,20 +23,21 @@ header nav {
   font-size: 20px;
 }
 
-header a {
-  display: inline-block;
-  margin-left: 25px;
-}
-
+/* h2:target {
+  color: rgb(134, 40, 40);
+} */
 header h1 {
   display: inline-block;
   font-size: 48px;
 }
-
 .seo {
   color: #d9dcd6;
 }
 
+nav a {
+  display: inline-block;
+  margin-left: 25px;
+}
 a {
   color: #ffffff;
   text-decoration: none;
@@ -46,12 +47,12 @@ p {
   font-size: 16px;
 }
 
-figure img {
-  height: 800px;
-  width: 100%;
+figure {
   margin-bottom: 25px;
-  background-size: cover;
-  background-position: center;
+}
+
+figure img {
+  width: 100%;
 }
 
 .float-left {
