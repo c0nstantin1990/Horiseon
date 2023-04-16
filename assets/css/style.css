@@ -23,14 +23,11 @@ header nav {
   font-size: 20px;
 }
 
-/* h2:target {
-  color: rgb(134, 40, 40);
-} */
 header h1 {
   display: inline-block;
   font-size: 48px;
 }
-.seo {
+span {
   color: #d9dcd6;
 }
 
