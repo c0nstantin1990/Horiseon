@@ -41,11 +41,10 @@ a {
   color: #ffffff;
   text-decoration: none;
 }
-
+/* paragraph font size  */
 p {
   font-size: 16px;
 }
-
 /* main picture on the page */
 figure {
   margin-bottom: 25px;
@@ -54,13 +53,13 @@ figure {
 figure img {
   width: 100%;
 }
-/* moving images in 2 lower sections */
-.float-left {
+/* moving images in 3 lower sections */
+#float-left {
   float: left;
   margin-right: 25px;
 }
 
-.float-right {
+#float-right {
   float: right;
   margin-left: 25px;
 }
