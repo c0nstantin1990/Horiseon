@@ -7,7 +7,7 @@
 body {
   background-color: #d9dcd6;
 }
-
+/* header font & color */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -15,6 +15,7 @@ header {
   background-color: #2a607c;
   color: #ffffff;
 }
+/* website navigation  */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -27,10 +28,11 @@ header h1 {
   display: inline-block;
   font-size: 48px;
 }
+/* changing color in 3 letters */
 span {
   color: #d9dcd6;
 }
-
+/* navigation size & color */
 nav a {
   display: inline-block;
   margin-left: 25px;
@@ -44,6 +46,7 @@ p {
   font-size: 16px;
 }
 
+/* main picture on the page */
 figure {
   margin-bottom: 25px;
 }
@@ -51,7 +54,7 @@ figure {
 figure img {
   width: 100%;
 }
-
+/* moving images in 2 lower sections */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -67,7 +70,7 @@ section {
   display: inline-block;
   margin-left: 20px;
 }
-
+/* side block of website */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -78,7 +81,7 @@ aside {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/* information in side block of the page */
 summary {
   margin-bottom: 32px;
   color: #ffffff;
@@ -94,7 +97,7 @@ summary img {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* main 3 articles on website */
 article {
   margin-bottom: 20px;
   padding: 50px;
@@ -112,7 +115,7 @@ article h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* footer of webpage */
 footer {
   padding: 30px;
   clear: both;
