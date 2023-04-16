@@ -2,13 +2,10 @@
 
 ## Description
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-
-- Interaction with page made browsing easier
 - Project was built to add accesability to page
-- Learned how to refactor the code and make it look more readable
+- Website optimize for search engines
+- Made website more interective
+- Refactored the code and made it look more readable
 
 ## Usage
 
