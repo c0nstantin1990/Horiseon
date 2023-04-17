@@ -15,7 +15,7 @@ You can interact with Navbar
 ![Bottom part of the page](/assets/screenshots/bottom-page.png)
 
 GitHub Repo: https://github.com/c0nstantin1990/Horiseon
-Website Link:
+Website Link: https://c0nstantin1990.github.io/Horiseon/
 
 ## Credits
 
