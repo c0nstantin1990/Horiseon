@@ -46,11 +46,11 @@ p {
   font-size: 16px;
 }
 /* main picture on the page */
-figure {
+main {
   margin-bottom: 25px;
 }
 
-figure img {
+main img {
   width: 100%;
 }
 /* moving images in 3 lower sections */
